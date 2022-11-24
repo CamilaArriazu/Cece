@@ -1,0 +1,47 @@
+
+*{
+    font-family: 'Big Shoulders Display', cursive;
+}
+.navbar-brand{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2rem;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    font-size: 3rem;
+}
+.botones{
+    width: 400px;
+    height: 400px;
+}
+button{
+    background-color: white;
+    border: white 0px solid;
+    padding: 2px;
+}
+.principal{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.redes{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+.redes1{
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+}
